@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 New line added to do the W3schools task
 It now includes steps for GITHUB
 New line added to do the W3schools task : focus
+New line for new branch "update-readme"
